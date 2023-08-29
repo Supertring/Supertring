@@ -1,8 +1,8 @@
 ### Hi there 👋 I am an engineer.
 
-- 🔭 I’m currently working on data science, machine learning, graph neural networks, and deep graph generative models.
-- 🌱 I’m currently learning more about graph machine learning
-- 👯 I’m looking to collaborate on ml + gnn + data science + dl
+- 🔭 I’m currently working on data science, machine learning, data analysis <!--graph neural networks, and deep graph generative models. -->
+- 🌱 I’m currently learning more about data science and its applications graph machine learning
+- 👯 I’m looking to collaborate on ml + data science + data analytics + dl + graph embeddings
 - 📫 How to reach me: [mail](mailto:abhisheksubedi27@gmail.com)
 
 **Some Projects:**  
