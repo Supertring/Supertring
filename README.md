@@ -11,6 +11,8 @@
 -[Stat und data](https://github.com/Supertring/Explore-data-mit-statistics): Explore data mit Statistics  
 
 -[pap](https://github.com/Supertring/papers) : Authored papers  
+  > To view my authored papers for NLP projects
+
 -[String](https://github.com/Supertring/ml-framework): A tiny machine learning framework  
 -[DSM](https://github.com/Supertring/Deep-State-Machine): Deep-State-Machine: Generative Model for Graph Generation  
 -[GDGM](https://github.com/Supertring/Gradient-Descent-Finds-Global-Minimum): Gradient Descent Finds Global Minimum  
